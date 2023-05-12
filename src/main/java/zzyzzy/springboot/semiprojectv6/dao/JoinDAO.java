@@ -1,7 +1,7 @@
-package zzyzzy.springboot.semiprojectv6boot.dao;
+package zzyzzy.springboot.semiprojectv6.dao;
 
-import zzyzzy.springboot.semiprojectv5.model.Member;
-import zzyzzy.springboot.semiprojectv5.model.Zipcode;
+import zzyzzy.springboot.semiprojectv6.model.Member;
+import zzyzzy.springboot.semiprojectv6.model.Zipcode;
 
 import java.util.List;
 

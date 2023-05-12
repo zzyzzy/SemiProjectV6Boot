@@ -1,4 +1,4 @@
-package zzyzzy.springboot.semiprojectv6boot.model;
+package zzyzzy.springboot.semiprojectv6.model;
 
 import lombok.Data;
 

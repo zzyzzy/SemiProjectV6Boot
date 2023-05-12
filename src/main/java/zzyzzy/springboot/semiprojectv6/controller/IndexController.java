@@ -1,4 +1,4 @@
-package zzyzzy.springboot.semiprojectv6boot.controller;
+package zzyzzy.springboot.semiprojectv6.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -8,7 +8,7 @@ public class IndexController {
 
     @GetMapping("/")
      public String index() {
-         return "index.tiles";
+         return "index";
      }
 
     @GetMapping("/intro")

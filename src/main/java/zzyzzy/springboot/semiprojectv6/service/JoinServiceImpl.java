@@ -1,11 +1,11 @@
-package zzyzzy.springboot.semiprojectv6boot.service;
+package zzyzzy.springboot.semiprojectv6.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import zzyzzy.springboot.semiprojectv5.dao.JoinDAO;
-import zzyzzy.springboot.semiprojectv5.model.Member;
+import zzyzzy.springboot.semiprojectv6.dao.JoinDAO;
+import zzyzzy.springboot.semiprojectv6.model.Member;
 
 @Service("jnsrv")
 public class JoinServiceImpl implements JoinService {

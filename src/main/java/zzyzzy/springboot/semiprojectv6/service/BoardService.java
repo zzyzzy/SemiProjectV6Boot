@@ -1,6 +1,6 @@
-package zzyzzy.springboot.semiprojectv6boot.service;
+package zzyzzy.springboot.semiprojectv6.service;
 
-import zzyzzy.springboot.semiprojectv5.model.Board;
+import zzyzzy.springboot.semiprojectv6.model.Board;
 
 import java.util.List;
 

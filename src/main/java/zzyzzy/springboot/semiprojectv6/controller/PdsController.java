@@ -1,4 +1,4 @@
-package zzyzzy.springboot.semiprojectv6boot.controller;
+package zzyzzy.springboot.semiprojectv6.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,6 @@
-package zzyzzy.springboot.semiprojectv6boot.service;
+package zzyzzy.springboot.semiprojectv6.service;
 
-import zzyzzy.springboot.semiprojectv5.model.Member;
+import zzyzzy.springboot.semiprojectv6.model.Member;
 
 import javax.servlet.http.HttpSession;
 
